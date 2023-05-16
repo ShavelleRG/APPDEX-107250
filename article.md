@@ -9,7 +9,7 @@ programmers.
 ![](Python%20image.jpg)
 
 ## Why Python is Popular
-
+___
 Python is a popular programming language for many reasons. Some of the key features that make
 it so attractive to programmers include:
 * Easy to learn: Python has a simple, easy-to-read syntax that is perfect for beginners. The
@@ -25,7 +25,7 @@ distribute. This makes it an ideal choice for those who want to create and share
 projects without incurring any costs.
 
 # Applications of Python
-___
+
 Python is widely used in many different fields, such as:
 1. Web Development: Python is often used as the backend language for web applications,
 thanks to its powerful libraries such as Django and Flask.
@@ -62,7 +62,9 @@ tasks. Some of the most popular libraries include:
 |**Pandas**          |   A library for working with arrays and matrices.                           |
 |**Matplotlib**          |  A library for creating visualizations and plots.                            |
 |**Scikit-learn**          |      A library for machine learning and data mining.                        |
+
 ## Python Functions
+____
 
 Python functions are blocks of code that can be reused multiple times. A function is defined using
 the ==def== keyword, followed by the function name and a set of parentheses. The code inside the
