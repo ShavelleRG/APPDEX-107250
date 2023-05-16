@@ -6,7 +6,9 @@ easy-to-read syntax, which makes it an ideal choice for beginners and experts al
 we will explore some of the key features of Python and why it is such a popular choice for
 programmers.
 
+
 ![](Python_logo_PNG11.png)
+
 
 ## Why Python is Popular
 ___
