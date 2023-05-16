@@ -1,3 +1,4 @@
+
 # **Python**
 
 Python is a powerful, high-level programming language that is widely used in many different fields,
@@ -42,6 +43,8 @@ automating financial transactions, creating educational software, and building g
 5. GIS: Python is a widely used programming language in the field of Geographic Information
 Systems (GIS), it is commonly used to automate repetitive tasks, perform complex analyses,
 and create custom tools for working with GIS data.
+
+
 
 # Getting Started with Python
 
