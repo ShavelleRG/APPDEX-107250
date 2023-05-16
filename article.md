@@ -8,7 +8,7 @@ we will explore some of the key features of Python and why it is such a popular 
 programmers.
 
 
-![](Python_logo_PNG11.png)
+![Python Logo](Python_logo_PNG11.png)
 
 
 ## Why Python is Popular
