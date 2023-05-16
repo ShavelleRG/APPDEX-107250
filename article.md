@@ -57,8 +57,8 @@ Python has a wide range of libraries available that provide additional functiona
 tasks. Some of the most popular libraries include:
 
 |    **Library**    |**Description**           |
-|:---           |:---                              |
-|**NumPy**          | A library for working with arrays and matrices.                            |
+|:---          |:---                              |
+|**NumPy**     | A library for working with arrays and matrices.|
 |**Pandas**          |   A library for working with arrays and matrices.                           |
 |**Matplotlib**          |  A library for creating visualizations and plots.                            |
 |**Scikit-learn**          |      A library for machine learning and data mining.                        |
@@ -84,14 +84,14 @@ When the code is run, it will print "Hello, John".
 
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such as:
 
-|       Function            |    Description           |
-|______                     |                           |
-|  print()                  | The print function is used to display output to the console.|
-|   len()                        |     The len function is used to find the length of a string or a list.|
-| str()                          |  The str function is used to convert a value to a string.                               |
-|    int()                       |   The int function is used to convert a value to an integer.   |
-|          min()                  |     The min function is used to find the minimum value in a list or a string.                            |
-|    max()                        |       The max function is used to find the maximum value in a list or a string.|
+| Function            | Description                                                         |
+| :----               | :--------                                                           |
+| print()             | The print function is used to display output to the console.        |
+| len()               | The len function is used to find the length of a string or a list.  |
+| str()               | The str function is used to convert a value to a string.            |
+| int()               | The int function is used to convert a value to an integer.          |
+| min()               | The min function is used to find the minimum value in a list or a string.|
+| max()               | The max function is used to find the maximum value in a list or a string.|
 
 # **Conclusion**
 Python is a powerful, high-level programming language that is widely used in many different fields.
