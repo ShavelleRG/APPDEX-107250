@@ -11,7 +11,7 @@ programmers.
 
 
 ## Why Python is Popular
-___
+
 Python is a popular programming language for many reasons. Some of the key features that make
 it so attractive to programmers include:
 * Easy to learn: Python has a simple, easy-to-read syntax that is perfect for beginners. The
