@@ -83,7 +83,7 @@ the ==def== keyword, followed by the function name and a set of parentheses. The
 function is executed when the function is called.
 For example, the following code defines a function called greet that prints a message:
 
-```json
+```Python
 {
 def greet(name):
 print(f"Hello, {name}")
