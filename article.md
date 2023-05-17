@@ -8,7 +8,7 @@ we will explore some of the key features of Python and why it is such a popular 
 programmers.
 
 
-![Python Logo](Python_logo_PNG11.png)
+[![Python Logo](Python_logo_PNG11.png)](https://1000logos.net/wp-content/uploads/2020/09/Python_logo_PNG11.png)
 
 
 ## Why Python is Popular
@@ -43,6 +43,9 @@ automating financial transactions, creating educational software, and building g
 5. GIS: Python is a widely used programming language in the field of Geographic Information
 Systems (GIS), it is commonly used to automate repetitive tasks, perform complex analyses,
 and create custom tools for working with GIS data.
+
+
+
 
 
 
